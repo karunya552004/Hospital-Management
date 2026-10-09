@@ -11,7 +11,7 @@ public class DBConnection {
             "jdbc:mysql://localhost:3306/hospital_db";
 
     static final String user = "root";
-    static final String pass = "Karunya#5504";
+    static final String pass = "Password";
 
     public static Connection getConnection()
             throws SQLException {
